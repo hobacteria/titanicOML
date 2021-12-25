@@ -1,6 +1,6 @@
-TRAIN_PATH = "../input/titanic/train.csv"
-TEST_PATH = "../input/titanic/test.csv"
-SAMPLE_SUBMISSION_PATH = "sibmission,csv"
+TRAIN_PATH = "./input/titanic/train.csv"
+TEST_PATH = "./input/titanic/test.csv"
+SAMPLE_SUBMISSION_PATH = "submission.csv"
 
 SUBMISSION_PATH = "submission.csv"
 
